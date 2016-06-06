@@ -6,7 +6,7 @@ A Windows executable GUI has also been created and will freely be available...
 This python code is to allow furhter customisation of the Karstolution model, improvements and allow more advanced model runs such as customisable plotting and batch runs.  
 
 # Conceptual Figure
-
+![Alt text]('Fig 1 Karstolution conceptual.png'?raw=true "Karstolution Conceptual Figure")
 
 # Dependancies
 Numpy  
