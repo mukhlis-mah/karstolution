@@ -1,9 +1,12 @@
-# karstolution
+# Karstolution
 The First Speleothem δ18O Model Integrating Karst Hydrological and In-Cave Fractionation Processes.  
 Coupling of existing KarstFor (Bradley et al., 2010) and ISOLTUION (Deininger et al., 2012) models.   
 Manuscript to be submitted to GCA.  
 A Windows executable GUI has also been created and will freely be available...   
 This python code is to allow furhter customisation of the Karstolution model, improvements and allow more advanced model runs such as customisable plotting and batch runs.  
+
+# Conceptual Figure
+
 
 # Dependancies
 Numpy  
