@@ -1,8 +1,8 @@
 # Karstolution
 The First Speleothem δ18O Model Integrating Karst Hydrological and In-Cave Fractionation Processes.  
 Coupling of existing KarstFor (Bradley et al., 2010) and ISOLTUION (Deininger et al., 2012) models.   
-Manuscript to be submitted to GCA.  
-A Windows executable GUI has also been created and will freely be available...   
+A manuscript presenting Karstolution and with a case-study of Golgotha Cave is under review in GCA.  
+A Windows executable GUI has also been created to allow easy use of the model. This is downloadable from www.connectedwaters.edu.au/karstolution. The wxpython code is also available in this GitHub despoitory. See below.  
 This python code is to allow furhter customisation of the Karstolution model, improvements and allow more advanced model runs such as customisable plotting and batch runs.  
 
 # Conceptual Figure
